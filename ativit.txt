@@ -1,0 +1,17 @@
+Em programação, o que é uma biblioteca?
+R: um pacote de varios metodos feitos para simplificar o codigo sem reescrever o codigo do zero.
+O que é a biblioteca Swing do Java e qual é o seu propósito?
+R: a biblioteca swing é uma biblotecq focada em frames de telas em java, seu proposito é facilitar codigos graficos.
+Quais são os componentes de interface gráfica de usuário (GUI) fornecidos pela biblioteca Swing para:
+Botão
+Campo de Texto
+Caixa de Seleção
+Barra de Progresso
+Botão de Opção
+Caixa de Combinação
+Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
+Como é possível fazer a validação de entrada de dados em campos de texto?
+Pesquise três principais diferenças entre a biblioteca Swing, a biblioteca AWT (Abstract Window Toolkit) e o JavaFX?
+: as diferenças são : o AWT tem menos funções que o swing, e o tempo de execução do swing é menor que o awt,
+Pesquise o conceito de “Look & Feel” dentro do contexto de interfaces gráficas com Swing no Java.
+
